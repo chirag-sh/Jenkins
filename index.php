@@ -1,3 +1,3 @@
 <?php
-echo "Hi Jenkins Is Working";
+echo "Hi Jenkins Working";
 ?>
